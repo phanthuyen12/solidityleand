@@ -4,7 +4,13 @@
 	},
 	"language": "Solidity",
 	"output": {
-		"abi": [],
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
 		"devdoc": {
 			"kind": "dev",
 			"methods": {},
@@ -18,7 +24,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/modefiExamples.sol": "MappingStructExample"
+			"contracts/modefiExamples.sol": "Owned"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -33,11 +39,11 @@
 	},
 	"sources": {
 		"contracts/modefiExamples.sol": {
-			"keccak256": "0xdd09689013cfcaac7c57fe804a9b96b3a5fa519d41e4e1781c88e7a365e7fc4f",
+			"keccak256": "0xd91d578383a9cd736a1e9a9c981f7ea36e434ff533f686b23df49df4f0406b85",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://0026bf60148208f6bfd43d57c0b234cc1d3e87892ab32d6d0fc169a2fae7e429",
-				"dweb:/ipfs/QmRuM9PrtgC67FLXfpcR3wMKAiDKtcyPhCuqEvQAiTSkDF"
+				"bzz-raw://7bba2473b9ee7565f4a2f90e387bffef3dd64a60e701e3cb5e1dde48661bf57f",
+				"dweb:/ipfs/QmWerGYjW1NsFpENCxWXEzEf82BEaaEruWDr5GWnaNFaAK"
 			]
 		}
 	},

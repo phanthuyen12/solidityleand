@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"name": "tokenBalace",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/EvenExamples.sol": "EvenExample"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/EvenExamples.sol": {
+			"keccak256": "0x58576311c348d54e43b5a3e0a525b442f9309ddb954d8ba731fb59b0d8617f63",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://30cc4c8070bc8a89135222f5ca9153323f3ecf8a0964d338ff9a6a6fb0c90c38",
+				"dweb:/ipfs/QmbxgNTUSURDfeUSq1PfkQnFYpiaTrprZov87ajtu5FTUQ"
+			]
+		}
+	},
+	"version": 1
+}

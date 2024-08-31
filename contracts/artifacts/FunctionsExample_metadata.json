@@ -18,7 +18,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"contracts/modefiExamples.sol": "MappingStructExample"
+			"contracts/EvenExamples.sol": "FunctionsExample"
 		},
 		"evmVersion": "cancun",
 		"libraries": {},
@@ -32,12 +32,12 @@
 		"remappings": []
 	},
 	"sources": {
-		"contracts/modefiExamples.sol": {
-			"keccak256": "0xdd09689013cfcaac7c57fe804a9b96b3a5fa519d41e4e1781c88e7a365e7fc4f",
+		"contracts/EvenExamples.sol": {
+			"keccak256": "0xe512beaa7ed837e6645db970d706c5e2313207c0260642fe6e571538be4f04b9",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://0026bf60148208f6bfd43d57c0b234cc1d3e87892ab32d6d0fc169a2fae7e429",
-				"dweb:/ipfs/QmRuM9PrtgC67FLXfpcR3wMKAiDKtcyPhCuqEvQAiTSkDF"
+				"bzz-raw://bda50ab3adf6cdc9b54979d47f09fa0d2d4f7e721f7767fb045416ed61176649",
+				"dweb:/ipfs/QmaGR8CNz74BL3PBjx6whZ1PrdneU71Th1e7RKykXnRb4z"
 			]
 		}
 	},
